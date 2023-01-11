@@ -1,0 +1,45 @@
+﻿Created By AccessData® FTK® Imager 3.1.4.6 
+
+Case Information: 
+Acquired using: ADI3.1.4.6
+Case Number: INF8430IFT3002
+Evidence Number: StraTJ01
+Unique description: Imation
+Examiner: Sylvain Desharnais
+Notes: Imation 128 Mo pour module sur les stratégies
+
+--------------------------------------------------------------
+
+Information for C:\Users\Dixhuit\Desktop\AA uLaval\Présentations\No 07\StraTJ01:
+
+Physical Evidentiary Item (Source) Information:
+[Device Info]
+ Source Type: Physical
+[Drive Geometry]
+ Cylinders: 15
+ Tracks per Cylinder: 255
+ Sectors per Track: 63
+ Bytes per Sector: 512
+ Sector Count: 248 832
+[Physical Drive Information]
+ Drive Model: USB Flash Disk USB Device
+ Drive Serial Number: 
+ Drive Interface Type: USB
+ Removable drive: True
+ Source data size: 121 MB
+ Sector count:    248832
+[Computed Hashes]
+ MD5 checksum:    dd2673f1cca243c6cc8c1ee39580bc5c
+ SHA1 checksum:   3b6c05d629201ace1ff5b5f9b8fa101fcf47bd62
+
+Image Information:
+ Acquisition started:   Tue May 26 16:40:19 2015
+ Acquisition finished:  Tue May 26 16:40:50 2015
+ Segment list:
+  C:\Users\Dixhuit\Desktop\AA uLaval\Présentations\No 07\StraTJ01.E01
+
+Image Verification Results:
+ Verification started:  Tue May 26 16:40:50 2015
+ Verification finished: Tue May 26 16:40:51 2015
+ MD5 checksum:    dd2673f1cca243c6cc8c1ee39580bc5c : verified
+ SHA1 checksum:   3b6c05d629201ace1ff5b5f9b8fa101fcf47bd62 : verified
