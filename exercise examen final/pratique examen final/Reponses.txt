@@ -1,0 +1,305 @@
+Nom du volume: phraser ; 
+Attribut 0x08: Nom de volume 
+Heure: 14h52:04 
+Date: Le 9 décembre 2017 
+ 
+Taille des grappes: 16 
+ 
+Voici les réponses pour le fichier 1: 
+Titre long du fichier: trio_giron_comme_police_crépus).aul 
+Fichier disponible car premier hexa du segment n'est pas E5 
+Nom du fichier en standard 8.3: trio_g~2.aul 
+Centièmes de secondes: 55 
+Heure création: 10h03:13 
+Date création: Le 22 novembre 2019 
+Date du dernier accès: Le 27 septembre 2015 
+Heure modification: 14h19:27 
+Date modification: Le 19 août 2012 
+Taille du fichier: 25019 
+Numéro de la première grappe: 25 
+Sequence des grappes allouées[25, 26, 27, 3] 
+
+
+Voici les réponses pour le fichier 2: 
+Titre long du fichier: pion_rachats_géré_bénir_dalle.zps 
+Fichier effacé car premier hexa du segment est E5 
+Nom du fichier en standard 8.3: pion_r~6.zps 
+Centièmes de secondes: 3 
+Heure création: 17h46:22 
+Date création: Le 23 juillet 2019 
+Date du dernier accès: Le 1 mai 2014 
+Heure modification: 07h12:10 
+Date modification: Le 8 février 2009 
+Taille du fichier: 37876 
+Numéro de la première grappe: 28 
+Sequence des grappes allouées[28, 29, 30, 75, 76] 
+
+
+Voici les réponses pour le fichier 3: 
+Titre long du fichier: bluffer_éléments_pieds_clause_pensées.lrj 
+Fichier effacé car premier hexa du segment est E5 
+Nom du fichier en standard 8.3: bluffe~8.lrj 
+Centièmes de secondes: 7 
+Heure création: 01h41:05 
+Date création: Le 28 août 2019 
+Date du dernier accès: Le 4 juillet 2012 
+Heure modification: 10h17:21 
+Date modification: Le 4 mars 2021 
+Taille du fichier: 28968 
+Numéro de la première grappe: 36 
+Sequence des grappes allouées[36, 37, 38, 4] 
+
+
+Voici les réponses pour le fichier 4: 
+Titre long du fichier: géante_strate_périls.eoh 
+Fichier disponible car premier hexa du segment n'est pas E5 
+Nom du fichier en standard 8.3: géante~1.eoh 
+Centièmes de secondes: 66 
+Heure création: 00h28:20 
+Date création: Le 5 mai 2020 
+Date du dernier accès: Le 18 février 2019 
+Heure modification: 19h28:12 
+Date modification: Le 9 janvier 2021 
+Taille du fichier: 44891 
+Numéro de la première grappe: 43 
+Sequence des grappes allouées[43, 44, 45, 5, 6, 55] 
+
+
+Voici les réponses pour le fichier 5: 
+Titre long du fichier: abolir_senteur_clairs_crimes_adieu_traces.mch 
+Fichier effacé car premier hexa du segment est E5 
+Nom du fichier en standard 8.3: abolir~8.mch 
+Centièmes de secondes: 57 
+Heure création: 01h53:10 
+Date création: Le 26 juillet 2019 
+Date du dernier accès: Le 3 septembre 2021 
+Heure modification: 20h47:21 
+Date modification: Le 24 juin 2008 
+Taille du fichier: 18403 
+Numéro de la première grappe: 48 
+Sequence des grappes allouées[48, 49, 50] 
+
+
+Voici les réponses pour le fichier 6: 
+Titre long du fichier: valait_crisser_occuper.qnt 
+Fichier disponible car premier hexa du segment n'est pas E5 
+Nom du fichier en standard 8.3: valait~6.qnt 
+Centièmes de secondes: 52 
+Heure création: 08h35:13 
+Date création: Le 18 juin 2016 
+Date du dernier accès: Le 22 avril 1999 
+Heure modification: 12h54:02 
+Date modification: Le 22 juin 2014 
+Taille du fichier: 18995 
+Numéro de la première grappe: 31 
+Sequence des grappes allouées[31, 32, 33] 
+
+
+Voici les réponses pour le fichier 7: 
+Titre long du fichier: validité_matins_nervure_vestige.kab 
+Fichier disponible car premier hexa du segment n'est pas E5 
+Nom du fichier en standard 8.3: validi~1.kab 
+Centièmes de secondes: 60 
+Heure création: 06h05:08 
+Date création: Le 8 décembre 2016 
+Date du dernier accès: Le 23 mars 2014 
+Heure modification: 05h56:17 
+Date modification: Le 16 janvier 2007 
+Taille du fichier: 32279 
+Numéro de la première grappe: 39 
+Sequence des grappes allouées[39, 40, 41, 7] 
+
+
+Voici les réponses pour le fichier 8: 
+Titre long du fichier: rets_gréviste_élite_milles_sculpter.hdq 
+Fichier disponible car premier hexa du segment n'est pas E5 
+Nom du fichier en standard 8.3: rets_g~1.hdq 
+Centièmes de secondes: 96 
+Heure création: 14h04:16 
+Date création: Le 19 février 2021 
+Date du dernier accès: Le 10 février 2013 
+Heure modification: 05h28:10 
+Date modification: Le 3 janvier 2021 
+Taille du fichier: 5516 
+Numéro de la première grappe: 46 
+Sequence des grappes allouées[46] 
+
+
+Voici les réponses pour le fichier 9: 
+Titre long du fichier: prêté_salut_sauvages_rapports.qdj 
+Fichier disponible car premier hexa du segment n'est pas E5 
+Nom du fichier en standard 8.3: prêté_~5.qdj 
+Centièmes de secondes: 22 
+Heure création: 02h09:23 
+Date création: Le 14 avril 2015 
+Date du dernier accès: Le 5 mars 2013 
+Heure modification: 23h46:29 
+Date modification: Le 13 avril 2015 
+Taille du fichier: 6277 
+Numéro de la première grappe: 47 
+Sequence des grappes allouées[47] 
+
+
+Voici les réponses pour le fichier 10: 
+Titre long du fichier: plouc_délation.vjj 
+Fichier disponible car premier hexa du segment n'est pas E5 
+Nom du fichier en standard 8.3: plouc_~3.vjj 
+Centièmes de secondes: 2 
+Heure création: 08h58:13 
+Date création: Le 7 mars 2013 
+Date du dernier accès: Le 2 février 2021 
+Heure modification: 00h42:26 
+Date modification: Le 26 janvier 2002 
+Taille du fichier: 12412 
+Numéro de la première grappe: 51 
+Sequence des grappes allouées[51, 52] 
+
+
+Voici les réponses pour le fichier 11: 
+Titre long du fichier: traite_rosée_chansons.sze 
+Fichier effacé car premier hexa du segment est E5 
+Nom du fichier en standard 8.3: traite~3.sze 
+Centièmes de secondes: 57 
+Heure création: 20h42:18 
+Date création: Le 6 janvier 2004 
+Date du dernier accès: Le 15 février 2020 
+Heure modification: 05h04:01 
+Date modification: Le 16 mars 2020 
+Taille du fichier: 13833 
+Numéro de la première grappe: 34 
+Sequence des grappes allouées[34, 35] 
+
+
+Voici les réponses pour le fichier 12: 
+Titre long du fichier: agencer_décline_primauté.fpx 
+Fichier disponible car premier hexa du segment n'est pas E5 
+Nom du fichier en standard 8.3: agence~1.fpx 
+Centièmes de secondes: 51 
+Heure création: 07h51:13 
+Date création: Le 25 février 2019 
+Date du dernier accès: Le 10 juin 2000 
+Heure modification: 12h24:16 
+Date modification: Le 27 janvier 2017 
+Taille du fichier: 26000 
+Numéro de la première grappe: 56 
+Sequence des grappes allouées[56, 57, 58, 8] 
+
+
+Voici les réponses pour le fichier 13: 
+Titre long du fichier: combats_moutard.pwz 
+Fichier effacé car premier hexa du segment est E5 
+Nom du fichier en standard 8.3: combat~7.pwz 
+Centièmes de secondes: 20 
+Heure création: 08h28:02 
+Date création: Le 8 novembre 2018 
+Date du dernier accès: Le 27 mars 2021 
+Heure modification: 12h00:24 
+Date modification: Le 10 août 2010 
+Taille du fichier: 20600 
+Numéro de la première grappe: 59 
+Sequence des grappes allouées[59, 60, 61] 
+
+
+Voici les réponses pour le fichier 14: 
+Titre long du fichier: buccal_auditeur_suinter.qoq 
+Fichier effacé car premier hexa du segment est E5 
+Nom du fichier en standard 8.3: buccal~3.qoq 
+Centièmes de secondes: 15 
+Heure création: 15h39:04 
+Date création: Le 4 août 2017 
+Date du dernier accès: Le 5 janvier 2017 
+Heure modification: 20h55:10 
+Date modification: Le 14 février 2019 
+Taille du fichier: 10331 
+Numéro de la première grappe: 53 
+Sequence des grappes allouées[53, 54] 
+
+
+Voici les réponses pour le fichier 15: 
+Titre long du fichier: mioche_pieds_horrible_éthique_bijou_rechange.ydd 
+Fichier effacé car premier hexa du segment est E5 
+Nom du fichier en standard 8.3: mioche~1.ydd 
+Centièmes de secondes: 33 
+Heure création: 16h14:03 
+Date création: Le 9 décembre 2014 
+Date du dernier accès: Le 4 août 2019 
+Heure modification: 23h58:19 
+Date modification: Le 25 mars 2015 
+Taille du fichier: 22951 
+Numéro de la première grappe: 62 
+Sequence des grappes allouées[62, 63, 64] 
+
+
+Voici les réponses pour le fichier 16: 
+Titre long du fichier: géminer_essuyer_dépanner_vélo_tact_arrivait.qmr 
+Fichier disponible car premier hexa du segment n'est pas E5 
+Nom du fichier en standard 8.3: gémine~3.qmr 
+Centièmes de secondes: 18 
+Heure création: 20h01:11 
+Date création: Le 8 octobre 2017 
+Date du dernier accès: Le 13 août 2020 
+Heure modification: 07h41:11 
+Date modification: Le 5 mars 2021 
+Taille du fichier: 10780 
+Numéro de la première grappe: 65 
+Sequence des grappes allouées[65, 66] 
+
+
+Voici les réponses pour le fichier 17: 
+Titre long du fichier: filtrer_fayard_plénum_records.dgw 
+Fichier disponible car premier hexa du segment n'est pas E5 
+Nom du fichier en standard 8.3: filtre~5.dgw 
+Centièmes de secondes: 26 
+Heure création: 10h01:01 
+Date création: Le 17 janvier 2010 
+Date du dernier accès: Le 15 février 2012 
+Heure modification: 17h27:24 
+Date modification: Le 9 août 2000 
+Taille du fichier: 40171 
+Numéro de la première grappe: 20 
+Sequence des grappes allouées[20, 21, 22, 9, 10] 
+
+
+Voici les réponses pour le fichier 18: 
+Titre long du fichier: soif_œsophage_aussi_lambin.jvc 
+Fichier disponible car premier hexa du segment n'est pas E5 
+Nom du fichier en standard 8.3: soif_œ~2.jvc 
+Centièmes de secondes: 70 
+Heure création: 10h45:26 
+Date création: Le 23 avril 2005 
+Date du dernier accès: Le 10 août 1996 
+Heure modification: 23h18:24 
+Date modification: Le 15 juin 2017 
+Taille du fichier: 4639 
+Numéro de la première grappe: 42 
+Sequence des grappes allouées[42] 
+
+
+Voici les réponses pour le fichier 19: 
+Titre long du fichier: tabous_boum_animal_couenne_paire_guise_insurgés.iwl 
+Fichier effacé car premier hexa du segment est E5 
+Nom du fichier en standard 8.3: tabous~1.iwl 
+Centièmes de secondes: 12 
+Heure création: 11h15:07 
+Date création: Le 3 décembre 2014 
+Date du dernier accès: Le 17 juillet 2014 
+Heure modification: 13h52:25 
+Date modification: Le 15 février 2008 
+Taille du fichier: 31437 
+Numéro de la première grappe: 67 
+Sequence des grappes allouées[67, 68, 69, 77] 
+
+
+Voici les réponses pour le fichier 20: 
+Titre long du fichier: érudit_boum_rang_laissera_tunisien_bavure.peb 
+Fichier disponible car premier hexa du segment n'est pas E5 
+Nom du fichier en standard 8.3: érudit~4.peb 
+Centièmes de secondes: 25 
+Heure création: 13h18:05 
+Date création: Le 23 mai 2015 
+Date du dernier accès: Le 24 décembre 2014 
+Heure modification: 08h36:26 
+Date modification: Le 25 août 2016 
+Taille du fichier: 7787 
+Numéro de la première grappe: 70 
+Sequence des grappes allouées[70] 
