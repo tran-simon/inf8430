@@ -1,16 +1,30 @@
 Plusieurs octets dans le segment:
 
-Premier octet du segment: décalage 0x
-Dernier octet du segment: décalage 0x
-Première grappe relative à ce segment:
-Dernière grappe relative à ce segment:
-Les octets de ce segment ont pour valeur: 0x
-Ce qui correspond à la valeur binaire: 0b
+Premier octet du segment: décalage 0x2800
+Dernier octet du segment: décalage 0x2838
+Première grappe relative à ce segment: 81 920
+Dernière grappe relative à ce segment: 82 368
+Les octets de ce segment ont pour valeur: 
+0xFF 0xFF 0xFF 0xFF 0xFF 0xFF 0xFF 0xFF 0xFF 0xFF 0xFF 0xFF 0xFF 0xFF 0xFF 0xFF
+0xFF 0xFF 0x8E 0x39 0x00 0x00 0x00 0x38 0xA0 0xFF 0xFF 0xFF 0xFF 0xFF 0xFF 0xFF 
+0xFF 0xFF 0xFF 0xFF 0xFF 0xFF 0xFF 0xFF 0xFF 0xFF 0xFF 0xFF 0xFF 0xFF 0xFF 0xFF
+0xFF 0xFF 0xFF 0xFF 0xFF 0xFF 0xFF 0xFF 0xFF 
+Ce qui correspond à la valeur binaire:
+0xFF: 0b1111 1111
+0x8E: 0b1000 1110
+0x39: 0b0011 1001
+0x38: 0b0011 1000
+0xA0: 0b1010 0000
 Les grappes susmentionnées sont donc:
+De 81920 à 82063, 82065, 82066, 82067, 82071, 82072, 82075, 82076, 82077, 82083, 82084, 82085, 82093, 82095, de 82093 à 82095
 Un seul octet dans le segment traité:
 
 Cet octet se trouve au décalage: 0x
 Cet octet a une valeur de: 0x
 Convertit en binaire, ça vaut: 0b
 Les grappes suivantes sont donc occupées:
+De 81920 à 82063, 82065, 82066, 82067, 82071, 82072, 82075, 82076, 82077, 82083, 82084, 82085, 82093, 82095, de 82093 à 82095
 Les grappes suivantes sont donc disponibles:
+
+
+Je ne suis pas certain de comprendre le format de la reponse, voir mon image
