@@ -1,0 +1,39 @@
+Stratégie principale:
+
+    Famille de stratégie et stratégie (tel qu'écrits dans le manuel du cours)
+		Données - Exploration des données
+    Donnée-source (intrant que vous utiliserez dans la stratégie - Nature, description et provenance)
+		Pendant la perquisition, j'accède à l'ordinateur de Laurent qu'il utilise pour remplir les rapports afin d'examiner les fichiers de ces rapports.
+    Outil utilisé pour appliquer la stratégie
+		FTK Imager. Laurent utilise un logiciel bureautique pour créer son rapport tel que Microsoft Word. Je peux lire les fichiers de ses rapports avec mon logiciel bureautique.
+		J'utilise un logiciel de visualisation d'images pour visualiser les images utilisées dans les rapports.
+    Cible (sur quel artefacts appliquerez-vous la stratégie)
+		Disque dur de Laurent monté en lecture seule sur mon laptop de fouille.
+    Méthode d'application (description sommaire de comment vous vous y prendrez pour produire le résultat escompté)
+		J'extrais les fichiers des rapports.
+		Je les lis avec mon logiciel bureautique.
+		J'extrais les images des fausses factures qui sont dans les fichiers. Je cherche la source des images sur le disque dur.
+    Résultats escomptés (description sommaire de l'extrant que vous espérez obtenir suite à l'application de la stratégie)
+		Recueillir une série de photos ou de fichiers Photoshop (ou tout autre éditeur d'image)
+    Utilisation projetée (En quoi l'extrant vous sera-t-il utile pour démontrer la culpabilité du suspect)
+		Pouvoir appliquer efficacement la stratégie B qui suit
+Stratégie « plan B »:
+
+    Famille de stratégie et stratégie (tel qu'écrits dans le manuel du cours)
+		Méta: intra / para - Signatures
+    Donnée-source (intrant que vous utiliserez dans la stratégie - Nature, description et provenance)
+		L'ordinateur de Laurent, par la stratégie A.
+    Outil utilisé pour appliquer la stratégie
+		FTK Imager
+		Photoshop
+    Cible (sur quel artefacts appliquerez-vous la stratégie)
+		Disque dur de Laurent monté en lecture seule sur mon laptop de fouille.
+    Méthode d'application (description sommaire de comment vous vous y prendrez pour produire le résultat escompté)
+		Je cherche dans les fichiers d'image des signatures de Photoshop qui prouvent que l'image a été modifiée.
+		Si je trouve les fichiers photoshop originaux, je peux les ouvrir avec Photoshop et voir l'historique des modifications.
+    Résultats escomptés (description sommaire de l'extrant que vous espérez obtenir suite à l'application de la stratégie)
+		Trouver des images de factures ou autre qui ont été modifiées par un logiciel de traitement d'image.
+    Utilisation projetée (En quoi l'extrant vous sera-t-il utile pour démontrer la culpabilité du suspect)
+		Démontrer que le suspect a créer de fausses factures et de fausses photos qu'il a soumis avec ses rapports
+
+

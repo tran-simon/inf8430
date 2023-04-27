@@ -1,0 +1,39 @@
+a)       De quel fichier cet aperçu d’écran est-il tiré? {0,5 point}
+
+$MFT
+
+b)      Est-ce que ces données sont des paradonnées ou des intradonnées? {0,5 point}
+
+paradonnées
+
+c)       À quel fichier ces métadonnées se rapportent-elles? {1 point}
+
+reconnaissent94.f
+
+d)      À quel décalage (« offset ») se trouve l’attribut $80? Exprimez le décalage en hexadécimale et selon l’échelle située à gauche de l’aperçu d’écran {2 points}
+
+0x2118
+
+e)       Dans l’attribut $80, donnez le décalage, en hexadécimale de la donnée qui vous indique où se trouve la trame de données {2 points}
+
+La donnée à 0x2138 nous indique que la trame débute à 0x2158. La réponse est donc 0x2138
+
+f)        Interprétez la trame de données en faisant ressortir {14 points} :
+
+i) les nombres hexadécimaux composant chaque segment;
+
+1er segment: 0x31 53B7 350A
+2e segment: 0x33 29E8 01BE 3F07
+3e segment: 0x53 85CC 03C4 F6F8 FFFF
+
+ii) le numéro, en décimale, de la première grappe de chaque segment du fichier; et
+
+1er segment: 669111
+2e segment: 1144181
+3e segment: 683065
+
+iii) le nombre, en décimale, de grappes consécutives de chaque segment.
+
+1er segment: 83 grappes
+2e segment: 124969 grappes
+3e segment: 248965 grappes
