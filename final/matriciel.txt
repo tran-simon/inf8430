@@ -1,0 +1,16 @@
+Plusieurs octets dans le segment:
+
+Premier octet du segment: décalage 0x
+Dernier octet du segment: décalage 0x
+Première grappe relative à ce segment:
+Dernière grappe relative à ce segment:
+Les octets de ce segment ont pour valeur: 0x
+Ce qui correspond à la valeur binaire: 0b
+Les grappes susmentionnées sont donc:
+Un seul octet dans le segment traité:
+
+Cet octet se trouve au décalage: 0x
+Cet octet a une valeur de: 0x
+Convertit en binaire, ça vaut: 0b
+Les grappes suivantes sont donc occupées:
+Les grappes suivantes sont donc disponibles:

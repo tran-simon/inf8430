@@ -1,6 +1,28 @@
-a)        Nom de la loi: Code criminel du Canada
+a)        Nom de la loi
+
+Code criminel du Canada
+
 b)       Article précis, c'est-à-dire précis jusqu'à la disposition pertinente que vous évoquez
+
+139 (1) C
+
 c)        Libellé du titre de l’article de loi (Le titre indiqué dans le document "Articles de loi.pdf"
+
+Entrave à la justice 
+
 d)       Formulation de l’accusation: Constituez un amalgame entre le texte de l'article de loi et l'énoncé
+
+Quiconque volontairement tente de quelque manière d’entraver, de détourner ou de contrecarrer le
+cours de la justice dans une procédure judiciaire : soit d’un acte criminel et passible d’un emprisonnement maximal de deux ans; 
+
+Emmanuel a volongairement tenté, en s'emparant du cellulaire de Jean et en supprimant des messages textes et des enregistrements d'appels qui auraient pu servir de preuve dans une procédure judiciaire, d'entraver, de détourner ou de contrecarrer le cours de la justice dans une procédure judiciaire : et est coupable d’un acte criminel et passible d’un emprisonnement maximal de deux ans.
+
 e)       Exemple de preuve de mens rea: Pas ce que vous voulez prouver mais la preuve que vous soumettrez
+
+Les données du cellulaire d'Emmanuel qui pourraient comporter des conversations avec une autre personne dans laquelle Emmanuel pourrait parler que Jean lui doit de l'argent et qu'il tente de le récupérer.
+
 f)        Exemple de preuve d’actus reus: Pas ce que vous voulez prouver mais la preuve que vous soumettrez
+
+Le témoignage de Jean, qui pourrait décrire la saisie du cellulaire par Emmanuel et la suppression des messages et des appels
+Les données du cellulaire de Jean, qui pourraient être récupérées par des investigateurs numériques et montrer les messages et les appels supprimés par Emmanuel.
+L'enregistrement de l'appel au 911 (La centrale du 911 enregistre tous les appels) qui pourrait montrer des signaux sonores de l'alercation entre Emmanuel et Jean avant la fin de l'appel.
