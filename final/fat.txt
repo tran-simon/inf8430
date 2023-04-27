@@ -1,0 +1,38 @@
+a) Est-ce que les métadonnées de ce fichier sont des paradonnées ou des intradonnées? {1 point}
+
+Des paradonnées (En FAT32, les informations du fichier sont sauvegardées dans le fichier à la racine)
+
+b) Quel est le titre (nom long au complet) de ce fichier, incluant l'extension de fichier? {2 points}
+
+grogneverticalpouvoirtandem.pwe
+
+c) Quelle est la taille logique, en octets, de ce fichier? {2 points} À quel décalage (« offset ») exact avez-vous vu cette information? {1 point}
+
+2419 octets
+décalage: 0x009C à 0x009F
+
+d) Est-ce que ce fichier a été effacé par l’utilisateur ou non et dites à quoi voyez-vous cela? {2 points}
+
+Non, car les octets au début des lignes sont "0x01", "0x02", "0x43" et non des "E5"
+
+e) Combien de grappes sont nécessaires pour stocker ce fichier? {2 points}
+
+2 grappes
+
+f) Dans quelles grappes retrouve-t-on les différents segments de ce fichier? Pour répondre, vous devez partir du répertoire racine avec une certaine donnée et continuer et terminer votre réponse à l’aide de la table d’allocation des fichiers. {6 points}
+
+Les grappes # 31 et 32
+
+Décalages: 0x7C à 0x7F, 0x80 à 0x83
+
+g) Quelle est la taille physique de ce fichier? {2 points} À quel décalage (« offset ») exact avez-vous vu cette information? Exprimez le décalage selon l’échelle située à gauche de l’aperçu d’écran ou, si vous utilisez le fichier source, exprimez-le en hexadécimale. {1 point}
+
+4096 octets
+
+Décalages:
+- Taille logique: 0x9C à 9x9f
+- 1ere grappe: 0x7C à 0x7F
+- 2e grappe: 0x80 à 0x83
+
+h) Quel est le nom du volume où réside la partition FAT32? {1 point}
+
